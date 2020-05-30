@@ -1,0 +1,5 @@
+class as{
+
+reurn as();
+
+}
